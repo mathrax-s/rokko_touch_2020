@@ -1,0 +1,23 @@
+(footprint "TOUCH-PTN2" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp cc8ed556-ad32-4baf-b40b-6429efca5c61)
+  )
+  (fp_text value "" (at 0 0) (layer "F.Fab")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 90120039-60e6-4a34-9645-bc05dfebf4c3)
+  )
+  (fp_poly
+    (pts
+      (xy 1.496159 0)
+      (xy 13.92473 7.25)
+      (xy -11.797587 7.25)
+      (xy -24.226159 0)
+      (xy -11.797587 -7.25)
+      (xy 13.92473 -7.25)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Cu") (tstamp 71477672-0795-4769-86ae-9bf9e1af1835))
+  (pad "P$1" thru_hole circle (at -17.78 0) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 560a1f78-6f23-4718-906b-75fcf3074f37))
+)
