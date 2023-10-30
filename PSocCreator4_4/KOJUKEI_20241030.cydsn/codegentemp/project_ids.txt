@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|147067ce-8bbf-484b-87cd-114e0b82d761
+C:\Users\SHOZO\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|48422784-1109-4d76-a896-67588b8f50ef
+C:\Users\SHOZO\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|e1b88a74-9f81-48f0-8629-3c68e027e1b6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|526915ea-1f83-489b-8bcf-5cfb8040424d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b6613086-020a-4ea6-ba47-1351086cc32c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|cd1bd083-3fbd-4ea8-9028-bc337ad4180f
+C:\Users\SHOZO\Documents\GitHub\rokko_touch_2020\PSocCreator4_4\KOJUKEI_20241030.cydsn\KOJUKEI_20241030.cyprj|ef8d2dc9-0696-46a0-9330-1c4cffec8df2
